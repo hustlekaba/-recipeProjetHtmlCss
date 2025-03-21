@@ -68,9 +68,56 @@ body{
     
 }
 
+/* Write Carts Meats */
+.b-red{
+    font-weight: normal;
+    color:red;
+}
+
+
+/**  **/
 .GroupImageCartsMeats{
     display:flex;
     flex-direction: column-reverse;
     
     padding:10px;
+}
+
+.li-cartsMeats{
+   padding: 5px;
+}
+
+ul .li-cartsMeats{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+   
+}
+
+
+/* GROUP BREAKFAST */
+.groupBreakfast{
+    padding:20px;
+   
+}
+
+.BreakfastSandwiches{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.DeuxM{
+    display: flex;
+    justify-content:space-around;
+}
+
+.BlockDesayun{
+   
+}
+
+.BlockSandwiches{
+    padding: 20px;
+    width: 300px;
+    margin-top:0;
 }
