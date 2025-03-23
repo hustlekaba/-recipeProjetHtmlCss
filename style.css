@@ -102,46 +102,45 @@ ul .li-cartsMeats{
     padding-right:20px;
     
 }
-
 .mofongos{
     background-color: rgb(155, 155, 71);
     padding: 20px;
-    width: 500px;
-}
+    width: 540px;
+    border-left: solid 2px rgb(68, 68, 20);
+    border-right: solid 1px rgb(68, 68, 20);
+    border-top: solid 2px rgb(68, 68, 20);
+    border-bottom: solid 2px rgb(68, 68, 20);
 
+
+}
 .mofongos p{
    display: flex;
    justify-content: space-between;
 }
-
 .ShakesJuice{
     background-color: rgb(155, 155, 71);
     padding: 20px;
-}
+    border-left: solid 1px rgb(68, 68, 20);
+    border-right: solid 2px rgb(68, 68, 20);
+    border-top: solid 2px rgb(68, 68, 20);
+    border-bottom: solid 2px rgb(68, 68, 20);
 
+}
 .ShakesJuice p{
     display: flex;
     justify-content: space-between;
  }
 
 /* GROUP BREAKFAST */
-.groupBreakfast{
-    
-   
-}
-
 .BreakfastSandwiches{
     display: flex;
     justify-content: space-between;
     padding-left: 20px;
-
 }
-
 .DeuxM{
     display: flex;
     justify-content:space-around;
 }
-
 .BlockSandwiches{
     padding: 20px;
     width: 300px;
